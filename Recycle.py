@@ -68,4 +68,4 @@ def rubish_choice(rub):
     return message
 
 
-bot.run("MTA5NDU4ODg3ODYyODg1OTkxNQ.G_nylh.KHpD2NetIQ-c1EZqAeIqA7EGEMOBUCM-h1q7gc")
+bot.run("")
